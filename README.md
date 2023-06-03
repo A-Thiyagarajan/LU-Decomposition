@@ -49,7 +49,6 @@ print(res)
 ```
 
 ## Output:
-![lu decomposition]()
 
 
 ### (i) To find the L and U matrix:
